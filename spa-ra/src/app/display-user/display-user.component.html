@@ -1,0 +1,13 @@
+<div *ngIf="selectedUser">
+  <mat-card class="example-card">
+    <mat-card-header>
+      <mat-card-title>{{selectedUser.firstname}} {{selectedUser.lastname}}</mat-card-title>
+      <mat-card-subtitle>{{selectedUser.age}} ans</mat-card-subtitle>
+    </mat-card-header>
+    <mat-card-content>
+      <p>
+        Identifiant client : <b>{{selectedUser.id}}</b>
+      </p>
+    </mat-card-content>
+  </mat-card>
+</div>
