@@ -1,4 +1,4 @@
-#Intégration d'un Webcomponent Angular dans une SPA
+## Intégration d'un Webcomponent Angular dans une SPA
 
 Le but de ce projet est de démontrer la faisabilité d'intégrer un webcomponent dans une SPA dans le but de coller à l'architecture cible du site SID-RA
 
